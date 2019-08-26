@@ -1,0 +1,9 @@
+name: rt-viz
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - bqplot
+  - ipywidgets
+#  - astropy
+#  - matplotlib
